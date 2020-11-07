@@ -12,4 +12,4 @@ This dataset has been produced using a methodology specifically designed to over
 - No training data
 
 Details on the methodoly in the following publication:
-Fornacca D, Ren G, Xiao W (2020) Small fires, frequent clouds, rugged terrain and no training data: a methodology to reconstruct fire history in complex landscapes. International Journal of Wildland Fire. https://doi.org/10.1071/WF20072
+Fornacca D, Ren G, Xiao W (2020) Small fires, frequent clouds, rugged terrain and no training data: a methodology to reconstruct fire history in complex landscapes. _International Journal of Wildland Fire_. https://doi.org/10.1071/WF20072
