@@ -30,7 +30,7 @@ NWY_Fire_LS accuracy in detecting fire events has been tested using a stratified
 
 #### Identified limitations and caveats
 - The accuracy assessment has been performed for the period 2001-2018, excluding 20011, 2012, and 2013. Previous years' accuracies were not assessed
-- Due to the gap between 2010 and 2013, fires of the year 2013 may include burns from 2011 and 2012. 
+- Because of the gap between 2010 and 2013, fires of the year 2013 may include burns from 2011 and 2012. 
 
 
 #### Publication
