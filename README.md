@@ -1,6 +1,6 @@
 ### Dataset of vegetation fire events (polygons) in northwest Yunnan from 1987 to 2018 - NWY_Fire_LS
 
-Link to dataset: `NWY_Fire_LS.zip` [[file]](NWY_Fire_LS.zip)
+Link to dataset: `NWY_Fire_LS.zip` [[file]](NWY_Fire_LS.zip)  
 The dataset is in OGC GeoPackage format (.gpkg) and the size is 44,896 KB. You will find it here in zipped format (6,076 KB).
 
 
@@ -34,5 +34,5 @@ NWY_Fire_LS accuracy in detecting fire events has been tested using a stratified
 
 
 #### Publication
-Details on the methodoly and accuracy assessment can be found in the following publication:
+Details on the methodoly and accuracy assessment can be found in the following publication:  
 Fornacca D, Ren G, Xiao W (2020) Small fires, frequent clouds, rugged terrain and no training data: a methodology to reconstruct fire history in complex landscapes. _International Journal of Wildland Fire_ **30**(2): 125-138. https://doi.org/10.1071/WF20072
