@@ -1,4 +1,3 @@
-{::options parse_block_html="true" /}
 ### Dataset of vegetation fire events (georeferenced polygons) in northwest Yunnan from 1987 to 2018 - NWY_Fire_LS v1 and v2
 
 Links to datasets:  
@@ -36,7 +35,18 @@ A quick manual (visual) check of the entire dataset, year-by-year in each WRS-2 
 
  
 Note that these corrections are not exhaustive and v2 still includes errors of omission and commission as well as mapping inaccuracies.
-{: .alert .alert-info .text-right}
+<div id="config-input" style="padding: 20px;">
+   <div data-role="fieldcontain">
+	<label for="text" >Enter Color Value (ex. red, green) :</label>
+	<input id="color-input" type="text" value="blue"> </input>
+   </div>
+   <div data-role="fieldcontain">
+	<label for="text" >Enter Width of the box (ex. 50, 70) :</label>
+        <input id="width-input" type="text" value="100"> </input>
+   </div>
+</div>
+<ul id="color-boxes" style="display: inline; list-style-type:none;">
+</ul>
 
 The number of fire events has been significantly reduced from 10,549 in v1 to 6,745 in v2, which represents a 30.06% of decrease. More specifically, 953 (9%) polygons were merged with other fire events, 	3,195 polygons representing commission errors were deleted (30.3%), and 344 polygons representing omission errors were added (3.3%). In terms of burned area, the reduction rate was 17.87% (3,156.25 km2 to 2,592.32 km2).  
 Detail of fire counts differences between v1 and v2 can be found in this table: [`Difference_fire_counts_v1-v2.csv`](Difference_fire_counts_v1-v2.csv).
