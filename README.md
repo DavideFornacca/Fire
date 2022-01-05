@@ -38,7 +38,7 @@ Note that these corrections are not exhaustive and v2 still includes errors of o
 
 <div id="config-input" style="padding: 20px;">
    <div data-role="fieldcontain">
-	<label for="text" >yellow :</label>
+	<label for="text" yellow /label>
 	<input id="color-input" type="text" value="blue"> </input>
    </div>
    <div data-role="fieldcontain">
