@@ -3,8 +3,8 @@
 Link to datasets:  
 - `NWY_Fire_LS.zip` (6,076 KB, OGC GeoPackage format: 44,896 KB) [[file]](NWY_Fire_LS.zip)  
 - `NWY_Fire_LS_v2.zip` (6,103 KB, OGC GeoPackage format: 43,340 KB) [[file]](NWY_Fire_LS_v2.zip)
-
-
+  
+  
 #### Attribute table field description
 The attribute table contains 4 fields:
 - <ins>fid</ins>: an automatically created ID number
