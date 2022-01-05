@@ -35,13 +35,14 @@ A quick manual (visual) check of the entire dataset, year-by-year in each WRS-2 
 
  
 Note that these corrections are not exhaustive and v2 still includes errors of omission and commission as well as mapping inaccuracies.
+
 <div id="config-input" style="padding: 20px;">
    <div data-role="fieldcontain">
-	<label for="text" >Enter Color Value (ex. red, green) :</label>
+	<label for="text" >yellow :</label>
 	<input id="color-input" type="text" value="blue"> </input>
    </div>
    <div data-role="fieldcontain">
-	<label for="text" >Enter Width of the box (ex. 50, 70) :</label>
+	<label for="text" >50 :</label>
         <input id="width-input" type="text" value="100"> </input>
    </div>
 </div>
