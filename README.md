@@ -1,9 +1,10 @@
 ### Dataset of vegetation fire events (georeferenced polygons) in northwest Yunnan from 1987 to 2018 - NWY_Fire_LS v1 and v2
 
-Link to datasets:  
+Links to datasets:  
 - `NWY_Fire_LS.zip` (6,076 KB, OGC GeoPackage format: 44,896 KB) [[file]](NWY_Fire_LS.zip)  
 - `NWY_Fire_LS_v2.zip` (6,103 KB, OGC GeoPackage format: 43,340 KB) [[file]](NWY_Fire_LS_v2.zip)
-  
+
+
   
 #### Attribute table field description
 The attribute table contains 4 fields:
@@ -14,7 +15,7 @@ The attribute table contains 4 fields:
 
 
 #### General information
-This dataset has been produced using a methodology specifically designed to overcome common issues encountered in remote sensing applications in complex landscapes. It is applied burned are extraction. The difficulties tackeld are:
+The first version of this dataset (v1) has been produced using a methodology specifically designed to overcome common issues encountered in remote sensing applications in complex landscapes. It is applied to burned area extraction. The difficulties tackeld are:
 - Small fires
 - Rugged terrain
 - Frequent cloud coverage
@@ -32,6 +33,10 @@ NWY_Fire_LS accuracy in detecting fire events has been tested using a stratified
 #### Identified limitations and caveats
 - The accuracy assessment has been performed for the period 2001-2018, excluding 20011, 2012, and 2013. Previous years' accuracies were not assessed
 - Because of the gap between 2010 and 2013, fires of the year 2013 may include burns from 2011 and 2012. 
+
+
+#### Improvements of the second version (v2)
+Detail of fire counts differences between v1 and v2 can be found in this table: `Difference_fire_counts_v1-v2.csv` [[file]](Difference_fire_counts_v1-v2.csv)
 
 
 #### Publication
