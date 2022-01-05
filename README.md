@@ -36,7 +36,9 @@ A quick manual (visual) check of the entire dataset, year-by-year in each WRS-2 
 **Warning**
 {: .panel-heading}
 <div class="panel-body">
+ 
 Note that these corrections are not exhaustive and v2 still includes errors of omission and commission as well as mapping inaccuracies.
+ 
 </div>
 </div>
 The number of fire events has been significantly reduced from 10,549 in v1 to 6,745 in v2, which represents a 30.06% of decrease. More specifically, 953 (9%) polygons were merged with other fire events, 	3,195 polygons representing commission errors were deleted (30.3%), and 344 polygons representing omission errors were added (3.3%). In terms of burned area, the reduction rate was 17.87% (3,156.25 km2 to 2,592.32 km2).  
