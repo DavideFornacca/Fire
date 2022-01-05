@@ -1,7 +1,7 @@
 ### Dataset of vegetation fire events (georeferenced polygons) in northwest Yunnan from 1987 to 2018 - NWY_Fire_LS v1 and v2
 
 Links to datasets:  
-- `NWY_Fire_LS.zip` (6,076 KB, OGC GeoPackage format: 44,896 KB) [[file]](NWY_Fire_LS.zip)  
+- [[`NWY_Fire_LS.zip`]](NWY_Fire_LS.zip) (6,076 KB, OGC GeoPackage format: 44,896 KB) [[file]](NWY_Fire_LS.zip)  
 - `NWY_Fire_LS_v2.zip` (6,103 KB, OGC GeoPackage format: 43,340 KB) [[file]](NWY_Fire_LS_v2.zip)
  
 #### Attribute table field description
