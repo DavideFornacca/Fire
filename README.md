@@ -32,7 +32,7 @@ NWY_Fire_LS accuracy in detecting fire events has been tested using a stratified
 
 #### Improvements of the second version (v2)
 A quick manual (visual) check of the entire dataset, year-by-year in each WRS-2 tile, has been performed to correct obvious mistakes, in particular commission errors. Despite the automatic routine merging fragmented polygons belonging to the same fire event, further fragmentation was found and corrected with a manual merging operation. Morevover, we found that commission was mostly due to undetected cloud and cloud shadows, as well as snow. This wasn't the case in the overall dataset but ony in some regions and particular years. Whenever possible, omission errors where also corrected.  
-> Note that these corrections are not exhaustive and v2 still includes errors of omission and commission as well as mapping inaccuracies.>  
+> Note that these corrections are not exhaustive and v2 still includes errors of omission and commission as well as mapping inaccuracies.<  
 The number of fire events has been significantly reduced from 10,549 in v1 to 6,745 in v2, which represents a 30.06% of decrease. More specifically, 953 (9%) polygons were merged with other fire events, 	3195 polygons representing commission errors were deleted (30.3%), and 344 polygons representing omission errors were added (3.3%). In terms of burned area, the reduction rate was 17.87% (3156.25 km2 to 2592.32 km2).  
 Detail of fire counts differences between v1 and v2 can be found in this table: [`Difference_fire_counts_v1-v2.csv`](Difference_fire_counts_v1-v2.csv).
 
