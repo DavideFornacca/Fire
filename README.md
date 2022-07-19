@@ -2,7 +2,7 @@
 
 ---
 
-***IMPORTANT:*** These datasets are models of the realtity and as such they potentially contain errors and inaccuracies. Read carefully all the documentation and use responsibly. The authors decline any responsibility following the inappropriate use use of these datasets.
+***IMPORTANT:*** These datasets are models of the reality and as such they potentially contain errors and inaccuracies. Read carefully all the documentation and use responsibly. The authors decline any responsibility following the inappropriate use use of these datasets.
 
 ---
 
